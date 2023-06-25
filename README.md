@@ -7,21 +7,21 @@ Project Limitations: Time to complete the project. I didn't quite manage to answ
 
 
 Ask:
- 1: What is the total GHG/C02 responsibility (percentage) for each country?
- 2: Does GDP influence GHG /CO2?
- 3: What is the total yearly CO2 increase/decrease per country?
- 4: What is the amount of GHG/C02 per Capita?
+ - What is the total GHG/C02 responsibility (percentage) for each country?
+ - Does GDP influence GHG /CO2?
+ - What is the total yearly CO2 increase/decrease per country?
+ - What is the amount of GHG/C02 per Capita?
 
 Prepare:
- The data used was a sample database downloaded from Ourworldindata.org (citation below):
+- The data used was a sample database downloaded from Ourworldindata.org (citation below):
 
 Process:
- Data that was needed for visualisation was extracted using Microsoft SQL Server (please refer to the script for more details)
+-Data that was needed for visualisation was extracted using Microsoft SQL Server (please refer to the script for more details)
 
 
 Analyse/Share:
- Finally, an interactive dashboard was made using Power BI.
- Link to final product: 
+-Finally, an interactive dashboard was made using Power BI.
+Link to final product: 
 
 Improvements/Changes needed (when time permits):
  - Make a visualise page for Greenhouse Gases
