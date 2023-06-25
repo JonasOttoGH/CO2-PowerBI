@@ -1,6 +1,6 @@
 # CO2-PowerBI
 A dashboard looking at C02 data from 1750 - 2022
-Link to final Product: https://app.powerbi.com/view?r=eyJrIjoiOGQ1YmM4MTItZGM3NC00YTBkLWFkNzEtOGQxNTg1YWZhZGVjIiwidCI6ImJiMDc1YzM5LWIyMjItNGNhMy05MjMzLWZmYjUwYjY5NGFjOCJ9&pageName=ReportSection
+- Link to final Product: https://app.powerbi.com/view?r=eyJrIjoiOGQ1YmM4MTItZGM3NC00YTBkLWFkNzEtOGQxNTg1YWZhZGVjIiwidCI6ImJiMDc1YzM5LWIyMjItNGNhMy05MjMzLWZmYjUwYjY5NGFjOCJ9&pageName=ReportSection
 
 A portfolio project looking at CO2 data using SQL and Power BI.
 
