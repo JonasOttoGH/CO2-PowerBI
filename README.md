@@ -27,6 +27,7 @@ Link to final product:
 
 Improvements/Changes needed (when time permits):
  - Make a visualise page for Greenhouse Gases
+ - Create a detailed visualise page for New Zealand CO2 including Exports/Imports and landuse
  - Focus on 'Ask' question: 2: Does GDP influence GHG /CO2?
  - Figure out how to continue to keep map Sphere at all times (will most likely need to use Photoshop for this)
  - Locate missing country data (blank)
