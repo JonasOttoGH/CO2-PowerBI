@@ -13,9 +13,11 @@ Ask:
  - What is the amount of GHG/C02 per Capita?
 
 Prepare:
+
 - The data used was a sample database downloaded from Ourworldindata.org (citation below):
 
 Process:
+
 -Data that was needed for visualisation was extracted using Microsoft SQL Server (please refer to the script for more details)
 
 
